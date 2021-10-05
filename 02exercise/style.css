@@ -1,0 +1,29 @@
+* {
+  
+  margin: 0;
+  padding: 0;
+  background-color: #F9F2EA;
+  color: #586F7F;
+  font-family: "MontSerrat", Arial, sans-serif;
+  
+}
+
+h1{
+  padding-top: 4rem;
+  text-align: center;
+  font-size: 2rem;
+}
+
+text{
+    font-size: 0.8rem;
+}
+
+
+.tick text{
+    color: #99b3c4;
+}
+
+.tick line{
+    color: #d8e1e8;
+    
+}
