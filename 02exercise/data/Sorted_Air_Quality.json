@@ -1,0 +1,277 @@
+[
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Bronx",
+    "MeanDataValue": 10.01
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "South Bronx",
+    "MeanDataValue": 10.56
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Southern SI",
+    "MeanDataValue": 8.73
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Northern SI",
+    "MeanDataValue": 8.77
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Bayside Little Neck-Fresh Meadows",
+    "MeanDataValue": 9.02
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Union Square-Lower Manhattan",
+    "MeanDataValue": 11.27
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Chelsea-Village",
+    "MeanDataValue": 13.05
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Greenpoint and Williamsburg (CD1)",
+    "MeanDataValue": 11.09
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Washington Heights",
+    "MeanDataValue": 10.37
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Williamsbridge and Baychester (CD12)",
+    "MeanDataValue": 9.58
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Morris Park and Bronxdale (CD11)",
+    "MeanDataValue": 9.64
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Williamsburg - Bushwick",
+    "MeanDataValue": 10.57
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Throgs Neck and Co-op City (CD10)",
+    "MeanDataValue": 9.5
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Coney Island - Sheepshead Bay",
+    "MeanDataValue": 8.81
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Parkchester and Soundview (CD9)",
+    "MeanDataValue": 9.8
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Bensonhurst - Bay Ridge",
+    "MeanDataValue": 9.1
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Riverdale and Fieldston (CD8)",
+    "MeanDataValue": 9.93
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Canarsie - Flatlands",
+    "MeanDataValue": 9.03
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Kingsbridge Heights and Bedford (CD7)",
+    "MeanDataValue": 10.12
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "East Flatbush - Flatbush",
+    "MeanDataValue": 9.56
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Belmont and East Tremont (CD6)",
+    "MeanDataValue": 10.22
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Fordham and University Heights (CD5)",
+    "MeanDataValue": 10.99
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Sunset Park",
+    "MeanDataValue": 10.22
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Highbridge and Concourse (CD4)",
+    "MeanDataValue": 10.75
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "East New York",
+    "MeanDataValue": 9.51
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Morrisania and Crotona (CD3)",
+    "MeanDataValue": 10.41
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Bedford Stuyvesant - Crown Heights",
+    "MeanDataValue": 9.73
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Hunts Point and Longwood (CD2)",
+    "MeanDataValue": 10.7
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Downtown - Heights - Slope",
+    "MeanDataValue": 10.52
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Mott Haven and Melrose (CD1)",
+    "MeanDataValue": 10.82
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Greenpoint",
+    "MeanDataValue": 11.1
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Washington Heights and Inwood (CD12)",
+    "MeanDataValue": 10.32
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "East Harlem (CD11)",
+    "MeanDataValue": 10.38
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Central Harlem (CD10)",
+    "MeanDataValue": 10.33
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Morningside Heights and Hamilton Heights (CD9)",
+    "MeanDataValue": 10.44
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Upper East Side (CD8)",
+    "MeanDataValue": 11.44
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Upper West Side (CD7)",
+    "MeanDataValue": 10.82
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Hunts Point - Mott Haven",
+    "MeanDataValue": 9.79
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Stuyvesant Town and Turtle Bay (CD6)",
+    "MeanDataValue": 12.45
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "High Bridge - Morrisania",
+    "MeanDataValue": 10.62
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Midtown (CD5)",
+    "MeanDataValue": 14.1
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Crotona -Tremont",
+    "MeanDataValue": 10.6
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Clinton and Chelsea (CD4)",
+    "MeanDataValue": 11.83
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Pelham - Throgs Neck",
+    "MeanDataValue": 9.66
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Lower East Side and Chinatown (CD3)",
+    "MeanDataValue": 10.66
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Fordham - Bronx Pk",
+    "MeanDataValue": 9.96
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Greenwich Village and Soho (CD2)",
+    "MeanDataValue": 11.48
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Northeast Bronx",
+    "MeanDataValue": 9.68
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Financial District (CD1)",
+    "MeanDataValue": 11.63
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Kingsbridge - Riverdale",
+    "MeanDataValue": 9.87
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Staten Island",
+    "MeanDataValue": 8.87
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Queens",
+    "MeanDataValue": 9.2
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Manhattan",
+    "MeanDataValue": 11.25
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "Brooklyn",
+    "MeanDataValue": 9.61
+  },
+  {
+    "Name": "Fine Particulate Matter (PM2.5)",
+    "GeoPlaceName": "New York City",
+    "MeanDataValue": 9.45
+  }
+]
