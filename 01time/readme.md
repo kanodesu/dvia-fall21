@@ -13,3 +13,5 @@ For my final output, the three squares represent hour, minute, and second separa
 ![sketch3](https://github.com/kanodesu/dvia-fall21/blob/master/01time/assignment01.png "sketch3")
 
 There is still a problem that if the number of seconds is the same as the number of minutes, the upper layer square will cover the lower layer square. I haven’t thought of a perfect way to solve it, but there will be such situations in the clock, such as the second hand and the hour hand overlap with each other.
+
+The website: [01](https://kanodesu.github.io/dvia-fall21/01time/)
