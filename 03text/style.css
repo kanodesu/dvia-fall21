@@ -1,0 +1,38 @@
+* {
+  
+  margin: 0;
+  padding: 0;
+  background-color: #F9F2EA;
+  color: #586F7F;
+  font-family: "MontSerrat", Arial, sans-serif;
+  
+}
+
+h1{
+  padding-top: 4rem;
+  text-align: center;
+  font-size: 2rem;
+}
+
+
+
+.footer{
+text-align:center;
+
+font-size:14px;
+
+padding-bottom: 2rem;
+
+}
+
+h4{
+text-align:left;
+
+padding-left: 14rem;
+padding-right: 14rem;
+padding-bottom: 2rem;
+
+font-size: 0.95rem;
+font-weight: normal;
+    
+}
