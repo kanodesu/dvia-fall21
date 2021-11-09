@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+        crossorigin=""/>
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+        integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+        crossorigin=""></script>
+        <title>
+            Visualize Geospatial Data
+        </title>
+        <style>
+        * {
+  
+  margin: 0;
+  padding: 0;
+  font-family: "MontSerrat", Arial, sans-serif;
+  color: #586F7F;
+  
+  
+}
+        h1{
+            font-family: "MontSerrat", Arial, sans-serif;
+            text-align: center;
+        }
+        
+        h4{
+text-align:left;
+
+padding-left: 30rem;
+padding-right: 30rem;
+padding-bottom: 2rem;
+
+font-size: 0.95rem;
+font-weight: normal;
+    
+}
+        
+        .footer{
+text-align:center;
+
+font-size:14px;
+
+padding-bottom: 2rem;
+
+}
+
+            #map {
+                width: 1000px;
+                height: 600px;
+                margin: 0 auto;
+            }
+            
+        </style>
+    </head>
+    
+    <body>
+                <br><br><br><br>
+        <h1>The Earthquake on Nov.8 - 9</h1>
+        
+        <br><br>
+        <h4>This data visualization project aims to visualize all the earthquakes happened on Earth on Nov.8 - 9 
+        with the popup description of time, place and magnitude scale.
+        <br>All the earthquakes are marked with the location marker, and I also made the Significant Earthquake which 
+        had the biggest magnitude in a red circle. The yellow circles are all the earthquakes with a magnitude higher than 4.5.
+        You can zoom in or zoom out to check all the locations, and click on all the circles to see the popups.
+    </h4>
+    <br><br>
+        <div id="map"></div>
+        
+    
+        <script src="https://unpkg.com/leaflet"></script>
+        <script src="https://unpkg.com/d3"></script>
+        <script src="./app.js"></script> 
+        <br><br><br><br>
+    <p class = "footer">Wenqin Lu | Parsons MSDV | DVIA | Exercise04 |  Visualize Geospatial Data </p>
+    </body>
+    
+</html>
